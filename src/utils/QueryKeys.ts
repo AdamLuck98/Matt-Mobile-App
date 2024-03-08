@@ -1,0 +1,41 @@
+const QueryKeys = {
+  homeFeed: 'homeFeed',
+  userProfileDetails: 'userProfileDetails',
+  dashboard: "dashboard",
+  filetsize: "filetsize",
+  filtercolor: "filtercolor",
+  products: "products",
+  UpdateData: "UpdateData",
+  getLocationData: "getLocationData",
+  addproduct: "addproduct",
+  getSizeData: "getSizeDatar",
+  setColorData: "setColorData",
+  allLocation:'allLocation',
+  getSupplier: "getSupplier",
+  getUnit: "getUnit",
+  getLocationl: "getLocationl",
+  getSubCatData: "getSubCatData",
+  getCategoriesData: 'getCategoriesData',
+  getSubaCategoryData: "getSubaCategoryData",
+  getSubaCategoryData2: "getSubaCategoryData2",
+  deleteCategory: "deleteCategory",
+  updateproduct: "updateproduct",
+  SaveUserData: "SaveUserData",
+  addProfileData: "addProfileData",
+  countrycode: 'countrycode',
+  orderScreen: "orderScreen",
+  GetOrderInfo: "GetOrderInfo",
+  useOrderHead: "useOrderHead",
+  useDashboardSIple: "useDashboardSIple",
+  useDeletePropduct: "useDeletePropduct",
+  OutOfStock: "OutOfStock",
+  getLocation: "getLocation",
+  thilocation: "thilocation",
+  useAllLocation: "useAllLocation",
+  useOutStock: "useOutStock",
+  barcode: "barcode"
+};
+
+export type QueryKeysType = keyof typeof QueryKeys;
+
+export { QueryKeys };

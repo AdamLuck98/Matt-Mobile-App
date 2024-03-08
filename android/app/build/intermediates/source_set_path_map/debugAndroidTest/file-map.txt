@@ -1,0 +1,7 @@
+com.kizbin.test.app-androidTest-0 /Users/hitesh/Documents/Ketan/Project/kizbin-RN-12-Dec/android/app/build/generated/res/resValues/androidTest/debug
+com.kizbin.test.app-androidTest-1 /Users/hitesh/Documents/Ketan/Project/kizbin-RN-12-Dec/android/app/build/generated/res/rs/androidTest/debug
+com.kizbin.test.app-mergeDebugAndroidTestResources-2 /Users/hitesh/Documents/Ketan/Project/kizbin-RN-12-Dec/android/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.kizbin.test.app-mergeDebugAndroidTestResources-3 /Users/hitesh/Documents/Ketan/Project/kizbin-RN-12-Dec/android/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.kizbin.test.app-merged_res-4 /Users/hitesh/Documents/Ketan/Project/kizbin-RN-12-Dec/android/app/build/intermediates/merged_res/debugAndroidTest
+com.kizbin.test.app-androidTest-5 /Users/hitesh/Documents/Ketan/Project/kizbin-RN-12-Dec/android/app/src/androidTest/res
+com.kizbin.test.app-androidTestDebug-6 /Users/hitesh/Documents/Ketan/Project/kizbin-RN-12-Dec/android/app/src/androidTestDebug/res
